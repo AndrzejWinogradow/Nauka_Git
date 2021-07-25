@@ -18,7 +18,7 @@ Just practice, practice, practice on git and github. Creating branches, moving a
 
 ## Acknowledgements
 
-- This project was based on instructional vids from @ Kamil Brzeziński ( YT:Jak nauczyć się programowania ), YT:Overment ( Eduweb.pl ), @Ritaly ( flynerd.pl ), YT:freeCodeCamp.org, @ Mosh Hamedani ( codewitmosh.com )
+- This project was based on instructional vids from @ Kamil Brzeziński ( YT:Jak nauczyć się programowania ), YT:Overment ( Eduweb.pl ), @Ritaly ( flynerd.pl ), YT:freeCodeCamp.org, @ Mosh Hamedani ( codewitmosh.com ), Pro Git book by Scott Chacon and Ben Straub ( git-scm.com )
 - Readme.md was inspired by template from @Ritaly flynerd.pl
 
 
